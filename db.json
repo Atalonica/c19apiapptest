@@ -1,0 +1,23 @@
+{
+  "status":"OK",
+  "dades":{
+    "ID":"POCA1710301003"
+    "Estats":[
+      {
+        "Estat":"2",
+        "Lloc":"HOSPITAL UNIV.VALL D'HEBRON",
+        "Data":"18:42 27/04"
+      },
+      {
+        "Estat":"1",
+        "Lloc":"HOSPITAL UNIV.VALL D'HEBRON",
+        "Data":"17:41 26/04"
+      },
+      {
+        "Estat":"0",
+        "Lloc":"HOSPITAL UNIV.VALL D'HEBRON",
+        "Data":"16:40 25/04"
+      }
+    ]
+  }
+}
